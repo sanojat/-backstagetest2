@@ -1,0 +1,8 @@
+site_name: "santestspringboot2"
+site_description: "testing backstage 2"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
